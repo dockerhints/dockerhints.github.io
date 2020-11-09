@@ -9,3 +9,4 @@
 - https://craftcode.design/setup-docker-compose-with-wordpress/
   - https://hub.docker.com/r/gwee/wordpress-sendmail-docker
 - https://hub.docker.com/r/gwee/wordpress-sendmail-docker
+  - https://www.lotar.altervista.org/wiki/how-to/sendmail-and-gmail-relay
