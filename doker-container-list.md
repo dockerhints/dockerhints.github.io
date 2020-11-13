@@ -28,6 +28,7 @@ https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk034ezkn5pcvCfdHYgups
   - https://hub.docker.com/r/gwee/wordpress-sendmail-docker
 - https://hub.docker.com/r/gwee/wordpress-sendmail-docker
   - https://www.lotar.altervista.org/wiki/how-to/sendmail-and-gmail-relay
+- https://github.com/jaredpalmer/presspack
 
 
 ### Builders
