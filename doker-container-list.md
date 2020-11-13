@@ -18,7 +18,7 @@ https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk034ezkn5pcvCfdHYgups
 - https://hub.docker.com/r/iamdb/fpm-bedrock-wordpress/
 - https://hub.docker.com/r/codefueluk/wordpress-bedrock/
 - https://hub.docker.com/r/tiptopcoder/wordpress-bedrock
-- 
+- https://www.presslabs.com/docs/stack/how-to/development/local-development-with-bedrock/
 
 ### Other enviroments Wordpress 
 
