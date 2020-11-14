@@ -8,6 +8,8 @@
 
 ### Wordpress
 
+https://docs.docker.com/compose/wordpress/
+
 #### WP Bedrock framework
 
 https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk034ezkn5pcvCfdHYgupswt74800Yw%3A1605126241916&ei=YUisX5PCN_LgsAeloq-oCQ&q=wordpress+bedrock+docker+hub&oq=wordpress+bedrock+docker+hub&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoICAAQDRAFEB46BwgjELACECdQsVBY6Fxg011oAHACeACAAXOIAacHkgEDNy4zmAEAoAEBqgEHZ3dzLXdpesgBBMABAQ&sclient=psy-ab&ved=0ahUKEwjT9t-bqfvsAhVyMOwKHSXRC5UQ4dUDCAw&uact=5
@@ -42,7 +44,10 @@ https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk034ezkn5pcvCfdHYgups
 
 ### Builders
 
+- https://github.com/docker/compose
+- https://github.com/moby/buildkit
 - https://github.com/weahead/docker-builder
+- 
 
 ### Web dev utilities
 
